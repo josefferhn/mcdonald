@@ -130,7 +130,20 @@
 }
 
 
-
-
+.cupones{
+	background-color: #f2f2f2;
+}
+.cupones .card{
+	border-radius: 0px;
+}
+.cupones .card-header{
+	padding: 0;
+}
+.cupones .card-content{
+	padding: 10px 0;
+}
+.cupones .card-footer::before{
+	background-color: transparent;
+}
 
 
