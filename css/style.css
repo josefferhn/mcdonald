@@ -50,7 +50,7 @@
 
 .imagen{
 	padding: 5%;
-	height: 120px;
+
 }
 .content{
 	background-color: #fff;
@@ -145,6 +145,27 @@
 .cupones .card-footer::before{
 	background-color: transparent;
 }
+
+#menu .list .item-media img{
+	width: 50px;
+}
+#menu .list{
+	margin-top: 0;
+}
+
+
+.nutricionales .row{
+	padding: 5px;
+	margin-bottom: 4px;
+}
+.nutricionales .row:nth-child(even){
+	background-color: #fff;
+}
+.nutricionales .row:nth-child(odd){
+	background-color: #f2f2f2;
+}
+
+
 
 
 

@@ -20,7 +20,23 @@ var myApp = new Framework7({
 		path: '/cupones/',
     	url: 'cupones.html',
     	name: 'cupones',
+  		},
+		{
+		path: '/info-cupon/',
+    	url: 'info-cupon.html',
+    	name: 'info-cupon',
+  		},
+		{
+		path: '/comidas/',
+    	url: 'comidas.html',
+    	name: 'comidas',
+  		},
+		{
+		path: '/info-comida/',
+    	url: 'info-comida.html',
+    	name: 'info-comida',
   		}
+		
 	]
 });
 
